@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - turn
+  - Spike
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background3
+    uniqueID: 4070113373
+    locked: 0
+  - name: Background2
+    uniqueID: 2405236089
+    locked: 0
+  - name: Background
+    uniqueID: 3564560531
+    locked: 0
+  - name: Windows3
+    uniqueID: 3074639947
+    locked: 0
+  - name: Windows2
+    uniqueID: 164896843
+    locked: 0
+  - name: Windows
+    uniqueID: 3515357353
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1558327973
+    locked: 0
